@@ -170,7 +170,8 @@ Technical Components
 Current repositories:
 - [noizu compression](https://github.com/willWallace-RIT/noizu_compression)
 - [NoizuNet](https://github.com/willWallace-RIT/noizunet)
-- NoizuNet Ranker
+- [NoizuNet Ranker](https://github.com/willWallace-RIT/noizunet_ranker)
+- 
 
 Key technologies:
 
