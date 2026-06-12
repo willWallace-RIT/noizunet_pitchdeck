@@ -1,4 +1,4 @@
-# nioizunet_pitchdeck
+# noizunet_pitchdeck
 Readme friendly rundown on noizunet
 NoizuNet
 
