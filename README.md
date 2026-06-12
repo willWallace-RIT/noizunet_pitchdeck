@@ -168,7 +168,7 @@ Generate variations from compressed representations.
 Technical Components
 
 Current repositories:
-
+- [noizu compression](https://github.com/willWallace-RIT/noizu_compression)
 - NoizuNet
 - Noizu Compression
 - NoizuNet Ranker
