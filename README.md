@@ -14,6 +14,9 @@ Think:
 
 «Compression through procedural rediscovery rather than direct storage.»
 
+best search pattern analog so far
+![patternflow](https://github.com/engmung/PatternFlow/blob/991cc25d709233fd8116f9c9084153f13498a511/docs/media/demo_part1_v2.webp)
+
 ---
 
 The Problem
