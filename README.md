@@ -9,9 +9,9 @@ Organized Noise as a Compression and Reconstruction Medium
 
 Elevator Pitch
 
-What if instead of using ai image prompt generation for lossy compression and transfer of image data, we instead look for patchwork best fit case noise?
+**What if instead of using ai image prompt generation for lossy compression and transfer of image data, we instead look for patchwork best fit case noise?**
 
-To accomplish this, you know what you want noise to look like but to have your computer attenuate for the right noise would take eons. The concept is to reverse the equation(s) by reverse engineering in aggregate.
+**To accomplish this, you know what you want noise to look like but to have your computer attenuate for the right noise would take eons. The concept is to reverse the equation(s) by reverse engineering in aggregate.**
 
 NoizuNet explores whether structured noise can function as a compact intermediary representation for visual information.
 
