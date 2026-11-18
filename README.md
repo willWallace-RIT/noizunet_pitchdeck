@@ -11,6 +11,8 @@ Elevator Pitch
 
 What if instead of using ai image prompt generation for lossy compression and transfer of image data, we instead look for patchwork best fit case noise?
 
+To accomplish this, you know what you want noise to look like but to have your computer attenuate for the right noise would take eons. The concept is to reverse the equation(s) by reverse engineering in aggregate.
+
 NoizuNet explores whether structured noise can function as a compact intermediary representation for visual information.
 
 Instead of storing an image directly, NoizuNet attempts to discover and rank procedurally generated noise chunks that approximate regions of an image. The resulting representation becomes a set of references, transformations, and contextual metadata that can potentially reconstruct the original image while dramatically reducing storage requirements.
